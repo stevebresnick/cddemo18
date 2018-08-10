@@ -8,7 +8,7 @@ body {
 #main-wrapper,
 .region-primary-menu .menu-item a.is-active,
 .region-primary-menu .menu-item--active-trail a {
-  background: #ffffff;
+  background: #fdfdfd;
 }
 .tabs ul.primary li a.is-active {
   background-color: #ffffff;
